@@ -81,8 +81,8 @@ jupyter notebook CRISP-DM_Analysis.ipynb
 }
 ```
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanny_Cuervo-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/giovanny-alejandro-cuervo-londoño-b446ab23b)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate)]([https://researchgate.net/tu-perfil](https://www.researchgate.net/profile/Giovanny-Cuervo-Londono))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanny_Cuervo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovanny-alejandro-cuervo-londo%C3%B1o-b446ab23b/) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Giovanny-Cuervo-Londono)  
 [![Email](https://img.shields.io/badge/Email-giovanny.cuervo101%40alu.ulpgc.es-D14836?style=for-the-badge&logo=gmail)](mailto:giovanny.cuervo101@alu.ulpgc.es)
 
 > 💡 **How to reach me**:  
