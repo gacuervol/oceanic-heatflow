@@ -32,7 +32,7 @@ Skewness: 11.36 | Kurtosis: 194.91 (Leptokurtic distribution)
 px.density_mapbox(df, lat='lat', lon='lon', z='Heat_Flow',
                  mapbox_style="carto-darkmatter")
 ```
-![Panama Basin Heat Map]([https://i.imgur.com/heatflow_hist.png](https://github.com/gacuervol/oceanic-heatflow/blob/main/figures/PoligonoZona.PNG))  
+![Panama Basin Heat Map](https://github.com/gacuervol/oceanic-heatflow/blob/main/figures/PoligonoZona.PNG)  
 ### 3. Thermal Stage Classification
 ![Thermal Stages](https://i.imgur.com/heatflow_hist.png)  
 Pollack's (1993) model applied to Panama Basin data
