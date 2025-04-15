@@ -32,7 +32,7 @@ Skewness: 11.36 | Kurtosis: 194.91 (Leptokurtic distribution)
 px.density_mapbox(df, lat='lat', lon='lon', z='Heat_Flow',
                  mapbox_style="carto-darkmatter")
 ```
-![Panama Basin Heat Map](https://i.imgur.com/heatflow_hist.png)  
+![Panama Basin Heat Map]([https://i.imgur.com/heatflow_hist.png](https://github.com/gacuervol/oceanic-heatflow/blob/main/figures/PoligonoZona.PNG))  
 ### 3. Thermal Stage Classification
 ![Thermal Stages](https://i.imgur.com/heatflow_hist.png)  
 Pollack's (1993) model applied to Panama Basin data
@@ -52,13 +52,15 @@ Pollack's (1993) model applied to Panama Basin data
 ## 📂 Repository Structure
 ```text
 /Data
+├── Oceanic_Heat_Flow_(Pollack_et_al_1993).csv
 ├── HeatFlowIHFC_Panama.txt
-├── Pollack_1993_Compilation.csv
 /Notebooks
-├── CRISP-DM_Analysis.ipynb  # Main workflow
+├── Proyecto_Final (Giovanny A. Cuervo L.).ipynb  # Main workflow
 ├── GeoVisualization.ipynb    # Interactive maps
-/outputs
-├── figures/                  # All visualizations
+/scripts
+├── ProjFinal.py  
+/figures                  # All visualizations
+├── PoligonoZona.PNG
 ```
 ## 🚀 How to Replicate
 ```bash
