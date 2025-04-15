@@ -34,7 +34,7 @@ px.density_mapbox(df, lat='lat', lon='lon', z='Heat_Flow',
 ```
 ![Panama Basin Heat Map](https://github.com/gacuervol/oceanic-heatflow/blob/main/figures/PoligonoZona.PNG)  
 ### 3. Thermal Stage Classification
-![Thermal Stages](https://i.imgur.com/heatflow_hist.png)  
+![Thermal Stages](https://github.com/gacuervol/oceanic-heatflow/blob/main/figures/tabla%20pollack.PNG)
 Pollack's (1993) model applied to Panama Basin data
 
 ## 🔍 Statistical Findings
